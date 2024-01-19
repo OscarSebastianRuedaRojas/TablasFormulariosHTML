@@ -8,3 +8,19 @@
     padding: 5px;
     
 }
+
+#third-table {
+    border: 1px solid black;
+}
+
+.yellow {
+    background: lightyellow;
+}
+
+.green {
+    background: lightgreen;
+}
+
+.purple {
+    background: violet;
+}
